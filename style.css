@@ -1104,7 +1104,7 @@ a.cv_inner:after {
 }
 .cont1 i {
   color: white;
-  font-size: 25px;
+  font-size: 20px;
 }
 .cont11{
     color: #1FA184;
@@ -1292,6 +1292,9 @@ a.cv_inner:after {
 }
 
 @media(max-width: 450px){
+  .link_text {
+    font-size: 20px;
+  }
     .icon_menu{
         font-size: 35px;
     }
